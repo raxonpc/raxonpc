@@ -1,16 +1,24 @@
-### Hi there 👋
+<pre>
 
-<!--
-**raxonpc/raxonpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ High School Student
+├─▣ C/C++ Software Developer and CMake lover
+├─▣ <a href="https://raxonpc.tech/">raxonpc's Blog</a>
+├─▣ <a href="https://www.linkedin.com/in/tomasz-or%C5%82owski-a6287a236/">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/raxonpc/sjpp">SJP++</a>
+├─◈ <a href="https://github.com/raxonpc/todo_term">todo_term</a>
+├─◈ <a href="https://github.com/raxonpc/MeetingApp">MeetingApp</a>
+├─◈ <a href="https://github.com/raxonpc/asciiart-rs">asciiart-rs</a>
+│
+└───────────────────────────────▰▰▰
+
+<a href="https://github.com/thewhiteh4t">The inspiration for this README</a>
+
+</pre>
