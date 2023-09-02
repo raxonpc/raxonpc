@@ -2,7 +2,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ High School Student
+├─▣ Not a student anymore
 ├─▣ C/C++ Software Developer and CMake lover
 ├─▣ <a href="https://raxonpc.tech/">raxonpc's Blog</a>
 ├─▣ <a href="https://www.linkedin.com/in/tomasz-or%C5%82owski-a6287a236/">LinkedIn</a>
